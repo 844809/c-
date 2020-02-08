@@ -1,0 +1,8 @@
+D:\project\c#\Pro1\Pro1\bin\Debug\netstandard1.4\Pro1.deps.json
+D:\project\c#\Pro1\Pro1\bin\Debug\netstandard1.4\Pro1.dll
+D:\project\c#\Pro1\Pro1\bin\Debug\netstandard1.4\Pro1.pdb
+D:\project\c#\Pro1\Pro1\obj\Debug\netstandard1.4\Pro1.csprojResolveAssemblyReference.cache
+D:\project\c#\Pro1\Pro1\obj\Debug\netstandard1.4\Pro1.csproj.CoreCompileInputs.cache
+D:\project\c#\Pro1\Pro1\obj\Debug\netstandard1.4\Pro1.AssemblyInfo.cs
+D:\project\c#\Pro1\Pro1\obj\Debug\netstandard1.4\Pro1.dll
+D:\project\c#\Pro1\Pro1\obj\Debug\netstandard1.4\Pro1.pdb

@@ -1,0 +1,7 @@
+D:\project\c#\Oloadingp\Oloadingp\bin\Debug\Oloadingp.exe.config
+D:\project\c#\Oloadingp\Oloadingp\bin\Debug\Oloadingp.exe
+D:\project\c#\Oloadingp\Oloadingp\bin\Debug\Oloadingp.pdb
+D:\project\c#\Oloadingp\Oloadingp\obj\Debug\Oloadingp.csprojResolveAssemblyReference.cache
+D:\project\c#\Oloadingp\Oloadingp\obj\Debug\Oloadingp.csproj.CoreCompileInputs.cache
+D:\project\c#\Oloadingp\Oloadingp\obj\Debug\Oloadingp.exe
+D:\project\c#\Oloadingp\Oloadingp\obj\Debug\Oloadingp.pdb

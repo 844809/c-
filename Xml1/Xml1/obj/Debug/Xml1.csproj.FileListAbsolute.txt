@@ -1,0 +1,7 @@
+D:\project\c#\Xml1\Xml1\bin\Debug\Xml1.exe.config
+D:\project\c#\Xml1\Xml1\bin\Debug\Xml1.exe
+D:\project\c#\Xml1\Xml1\bin\Debug\Xml1.pdb
+D:\project\c#\Xml1\Xml1\obj\Debug\Xml1.csprojResolveAssemblyReference.cache
+D:\project\c#\Xml1\Xml1\obj\Debug\Xml1.csproj.CoreCompileInputs.cache
+D:\project\c#\Xml1\Xml1\obj\Debug\Xml1.exe
+D:\project\c#\Xml1\Xml1\obj\Debug\Xml1.pdb

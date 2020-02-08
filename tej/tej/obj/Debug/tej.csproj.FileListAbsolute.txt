@@ -1,0 +1,7 @@
+D:\project\c#\tej\tej\obj\Debug\tej.csproj.CoreCompileInputs.cache
+D:\project\c#\tej\tej\bin\Debug\tej.exe.config
+D:\project\c#\tej\tej\bin\Debug\tej.exe
+D:\project\c#\tej\tej\bin\Debug\tej.pdb
+D:\project\c#\tej\tej\obj\Debug\tej.exe
+D:\project\c#\tej\tej\obj\Debug\tej.pdb
+D:\project\c#\tej\tej\obj\Debug\tej.csprojResolveAssemblyReference.cache

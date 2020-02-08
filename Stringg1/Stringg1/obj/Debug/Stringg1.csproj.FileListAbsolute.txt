@@ -1,0 +1,7 @@
+D:\project\c#\Stringg1\Stringg1\bin\Debug\Stringg1.exe.config
+D:\project\c#\Stringg1\Stringg1\bin\Debug\Stringg1.exe
+D:\project\c#\Stringg1\Stringg1\bin\Debug\Stringg1.pdb
+D:\project\c#\Stringg1\Stringg1\obj\Debug\Stringg1.csprojResolveAssemblyReference.cache
+D:\project\c#\Stringg1\Stringg1\obj\Debug\Stringg1.csproj.CoreCompileInputs.cache
+D:\project\c#\Stringg1\Stringg1\obj\Debug\Stringg1.exe
+D:\project\c#\Stringg1\Stringg1\obj\Debug\Stringg1.pdb

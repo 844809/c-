@@ -1,0 +1,7 @@
+D:\project\c#\Abstract2\Abstract2\bin\Debug\Abstract2.exe.config
+D:\project\c#\Abstract2\Abstract2\bin\Debug\Abstract2.exe
+D:\project\c#\Abstract2\Abstract2\bin\Debug\Abstract2.pdb
+D:\project\c#\Abstract2\Abstract2\obj\Debug\Abstract2.csprojResolveAssemblyReference.cache
+D:\project\c#\Abstract2\Abstract2\obj\Debug\Abstract2.csproj.CoreCompileInputs.cache
+D:\project\c#\Abstract2\Abstract2\obj\Debug\Abstract2.exe
+D:\project\c#\Abstract2\Abstract2\obj\Debug\Abstract2.pdb

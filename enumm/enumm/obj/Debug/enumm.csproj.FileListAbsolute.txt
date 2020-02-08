@@ -1,0 +1,7 @@
+D:\project\c#\enumm\enumm\bin\Debug\enumm.exe.config
+D:\project\c#\enumm\enumm\bin\Debug\enumm.exe
+D:\project\c#\enumm\enumm\bin\Debug\enumm.pdb
+D:\project\c#\enumm\enumm\obj\Debug\enumm.csprojResolveAssemblyReference.cache
+D:\project\c#\enumm\enumm\obj\Debug\enumm.csproj.CoreCompileInputs.cache
+D:\project\c#\enumm\enumm\obj\Debug\enumm.exe
+D:\project\c#\enumm\enumm\obj\Debug\enumm.pdb

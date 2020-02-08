@@ -1,0 +1,6 @@
+D:\project\c#\String3\String3\bin\Debug\String3.exe.config
+D:\project\c#\String3\String3\bin\Debug\String3.exe
+D:\project\c#\String3\String3\bin\Debug\String3.pdb
+D:\project\c#\String3\String3\obj\Debug\String3.csproj.CoreCompileInputs.cache
+D:\project\c#\String3\String3\obj\Debug\String3.exe
+D:\project\c#\String3\String3\obj\Debug\String3.pdb

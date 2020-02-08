@@ -1,0 +1,7 @@
+D:\project\c#\Exist1\Exist1\bin\Debug\Exist1.exe.config
+D:\project\c#\Exist1\Exist1\bin\Debug\Exist1.exe
+D:\project\c#\Exist1\Exist1\bin\Debug\Exist1.pdb
+D:\project\c#\Exist1\Exist1\obj\Debug\Exist1.csprojResolveAssemblyReference.cache
+D:\project\c#\Exist1\Exist1\obj\Debug\Exist1.csproj.CoreCompileInputs.cache
+D:\project\c#\Exist1\Exist1\obj\Debug\Exist1.exe
+D:\project\c#\Exist1\Exist1\obj\Debug\Exist1.pdb

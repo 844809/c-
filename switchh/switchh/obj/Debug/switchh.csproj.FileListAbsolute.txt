@@ -1,0 +1,6 @@
+D:\project\c#\switchh\switchh\obj\Debug\switchh.csproj.CoreCompileInputs.cache
+D:\project\c#\switchh\switchh\bin\Debug\switchh.exe.config
+D:\project\c#\switchh\switchh\bin\Debug\switchh.exe
+D:\project\c#\switchh\switchh\bin\Debug\switchh.pdb
+D:\project\c#\switchh\switchh\obj\Debug\switchh.exe
+D:\project\c#\switchh\switchh\obj\Debug\switchh.pdb

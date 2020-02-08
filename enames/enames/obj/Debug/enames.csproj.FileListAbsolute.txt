@@ -1,0 +1,6 @@
+D:\project\c#\enames\enames\bin\Debug\enames.exe.config
+D:\project\c#\enames\enames\bin\Debug\enames.exe
+D:\project\c#\enames\enames\bin\Debug\enames.pdb
+D:\project\c#\enames\enames\obj\Debug\enames.csproj.CoreCompileInputs.cache
+D:\project\c#\enames\enames\obj\Debug\enames.exe
+D:\project\c#\enames\enames\obj\Debug\enames.pdb

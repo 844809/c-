@@ -1,0 +1,9 @@
+D:\project\c#\Lib2\Lib2\bin\Debug\Lib2.exe.config
+D:\project\c#\Lib2\Lib2\bin\Debug\Lib2.exe
+D:\project\c#\Lib2\Lib2\bin\Debug\Lib2.pdb
+D:\project\c#\Lib2\Lib2\bin\Debug\Proj1.dll
+D:\project\c#\Lib2\Lib2\bin\Debug\Proj1.pdb
+D:\project\c#\Lib2\Lib2\obj\Debug\Lib2.csprojResolveAssemblyReference.cache
+D:\project\c#\Lib2\Lib2\obj\Debug\Lib2.csproj.CoreCompileInputs.cache
+D:\project\c#\Lib2\Lib2\obj\Debug\Lib2.exe
+D:\project\c#\Lib2\Lib2\obj\Debug\Lib2.pdb

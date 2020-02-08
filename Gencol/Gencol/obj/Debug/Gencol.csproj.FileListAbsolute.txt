@@ -1,0 +1,7 @@
+D:\project\c#\Gencol\Gencol\bin\Debug\Gencol.exe.config
+D:\project\c#\Gencol\Gencol\bin\Debug\Gencol.exe
+D:\project\c#\Gencol\Gencol\bin\Debug\Gencol.pdb
+D:\project\c#\Gencol\Gencol\obj\Debug\Gencol.csprojResolveAssemblyReference.cache
+D:\project\c#\Gencol\Gencol\obj\Debug\Gencol.csproj.CoreCompileInputs.cache
+D:\project\c#\Gencol\Gencol\obj\Debug\Gencol.exe
+D:\project\c#\Gencol\Gencol\obj\Debug\Gencol.pdb

@@ -1,0 +1,6 @@
+D:\project\c#\Interfacee\Interfacee\bin\Debug\Interfacee.exe.config
+D:\project\c#\Interfacee\Interfacee\bin\Debug\Interfacee.exe
+D:\project\c#\Interfacee\Interfacee\bin\Debug\Interfacee.pdb
+D:\project\c#\Interfacee\Interfacee\obj\Debug\Interfacee.csproj.CoreCompileInputs.cache
+D:\project\c#\Interfacee\Interfacee\obj\Debug\Interfacee.exe
+D:\project\c#\Interfacee\Interfacee\obj\Debug\Interfacee.pdb

@@ -1,0 +1,6 @@
+D:\project\c#\Stackq\Stackq\bin\Debug\Stackq.exe.config
+D:\project\c#\Stackq\Stackq\bin\Debug\Stackq.exe
+D:\project\c#\Stackq\Stackq\bin\Debug\Stackq.pdb
+D:\project\c#\Stackq\Stackq\obj\Debug\Stackq.csproj.CoreCompileInputs.cache
+D:\project\c#\Stackq\Stackq\obj\Debug\Stackq.exe
+D:\project\c#\Stackq\Stackq\obj\Debug\Stackq.pdb

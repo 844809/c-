@@ -1,0 +1,7 @@
+D:\project\c#\Lambda\Lambda\bin\Debug\Lambda.exe.config
+D:\project\c#\Lambda\Lambda\bin\Debug\Lambda.exe
+D:\project\c#\Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\project\c#\Lambda\Lambda\obj\Debug\Anonymous.csprojResolveAssemblyReference.cache
+D:\project\c#\Lambda\Lambda\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+D:\project\c#\Lambda\Lambda\obj\Debug\Lambda.exe
+D:\project\c#\Lambda\Lambda\obj\Debug\Lambda.pdb

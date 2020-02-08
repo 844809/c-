@@ -1,0 +1,6 @@
+D:\project\c#\String6\String6\bin\Debug\String6.exe.config
+D:\project\c#\String6\String6\bin\Debug\String6.exe
+D:\project\c#\String6\String6\bin\Debug\String6.pdb
+D:\project\c#\String6\String6\obj\Debug\String6.csproj.CoreCompileInputs.cache
+D:\project\c#\String6\String6\obj\Debug\String6.exe
+D:\project\c#\String6\String6\obj\Debug\String6.pdb

@@ -1,0 +1,6 @@
+D:\project\c#\String4\String4\bin\Debug\String4.exe.config
+D:\project\c#\String4\String4\bin\Debug\String4.exe
+D:\project\c#\String4\String4\bin\Debug\String4.pdb
+D:\project\c#\String4\String4\obj\Debug\String4.csproj.CoreCompileInputs.cache
+D:\project\c#\String4\String4\obj\Debug\String4.exe
+D:\project\c#\String4\String4\obj\Debug\String4.pdb

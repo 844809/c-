@@ -1,0 +1,9 @@
+D:\project\c#\Lib1\Lib1\bin\Debug\Lib1.exe.config
+D:\project\c#\Lib1\Lib1\bin\Debug\Lib1.exe
+D:\project\c#\Lib1\Lib1\bin\Debug\Lib1.pdb
+D:\project\c#\Lib1\Lib1\bin\Debug\ClassLibCal.dll
+D:\project\c#\Lib1\Lib1\bin\Debug\ClassLibCal.pdb
+D:\project\c#\Lib1\Lib1\obj\Debug\Lib1.csprojResolveAssemblyReference.cache
+D:\project\c#\Lib1\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\project\c#\Lib1\Lib1\obj\Debug\Lib1.exe
+D:\project\c#\Lib1\Lib1\obj\Debug\Lib1.pdb

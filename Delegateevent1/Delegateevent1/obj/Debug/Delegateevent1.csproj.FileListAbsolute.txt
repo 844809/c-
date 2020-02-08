@@ -1,0 +1,7 @@
+D:\project\c#\Delegateevent1\Delegateevent1\bin\Debug\Delegateevent1.exe.config
+D:\project\c#\Delegateevent1\Delegateevent1\bin\Debug\Delegateevent1.exe
+D:\project\c#\Delegateevent1\Delegateevent1\bin\Debug\Delegateevent1.pdb
+D:\project\c#\Delegateevent1\Delegateevent1\obj\Debug\Delegateevent1.csprojResolveAssemblyReference.cache
+D:\project\c#\Delegateevent1\Delegateevent1\obj\Debug\Delegateevent1.csproj.CoreCompileInputs.cache
+D:\project\c#\Delegateevent1\Delegateevent1\obj\Debug\Delegateevent1.exe
+D:\project\c#\Delegateevent1\Delegateevent1\obj\Debug\Delegateevent1.pdb

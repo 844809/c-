@@ -1,0 +1,7 @@
+D:\project\c#\Interf\Interf\bin\Debug\Interf.exe.config
+D:\project\c#\Interf\Interf\bin\Debug\Interf.exe
+D:\project\c#\Interf\Interf\bin\Debug\Interf.pdb
+D:\project\c#\Interf\Interf\obj\Debug\Interf.csprojResolveAssemblyReference.cache
+D:\project\c#\Interf\Interf\obj\Debug\Interf.csproj.CoreCompileInputs.cache
+D:\project\c#\Interf\Interf\obj\Debug\Interf.exe
+D:\project\c#\Interf\Interf\obj\Debug\Interf.pdb

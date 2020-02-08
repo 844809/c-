@@ -1,0 +1,7 @@
+D:\project\c#\String5\String5\bin\Debug\String5.exe.config
+D:\project\c#\String5\String5\bin\Debug\String5.exe
+D:\project\c#\String5\String5\bin\Debug\String5.pdb
+D:\project\c#\String5\String5\obj\Debug\String5.csprojResolveAssemblyReference.cache
+D:\project\c#\String5\String5\obj\Debug\String5.csproj.CoreCompileInputs.cache
+D:\project\c#\String5\String5\obj\Debug\String5.exe
+D:\project\c#\String5\String5\obj\Debug\String5.pdb

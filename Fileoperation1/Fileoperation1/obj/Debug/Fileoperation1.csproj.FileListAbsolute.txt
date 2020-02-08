@@ -1,0 +1,7 @@
+D:\project\c#\Fileoperation1\Fileoperation1\bin\Debug\Fileoperation1.exe.config
+D:\project\c#\Fileoperation1\Fileoperation1\bin\Debug\Fileoperation1.exe
+D:\project\c#\Fileoperation1\Fileoperation1\bin\Debug\Fileoperation1.pdb
+D:\project\c#\Fileoperation1\Fileoperation1\obj\Debug\Fileoperation1.csprojResolveAssemblyReference.cache
+D:\project\c#\Fileoperation1\Fileoperation1\obj\Debug\Fileoperation1.csproj.CoreCompileInputs.cache
+D:\project\c#\Fileoperation1\Fileoperation1\obj\Debug\Fileoperation1.exe
+D:\project\c#\Fileoperation1\Fileoperation1\obj\Debug\Fileoperation1.pdb

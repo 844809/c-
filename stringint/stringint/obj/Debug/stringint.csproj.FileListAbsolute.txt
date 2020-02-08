@@ -1,0 +1,2 @@
+D:\project\c#\stringint\stringint\obj\Debug\stringint.csprojResolveAssemblyReference.cache
+D:\project\c#\stringint\stringint\obj\Debug\stringint.csproj.CoreCompileInputs.cache

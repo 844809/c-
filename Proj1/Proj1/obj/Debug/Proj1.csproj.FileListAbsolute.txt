@@ -1,0 +1,6 @@
+D:\project\c#\Proj1\Proj1\bin\Debug\Proj1.dll
+D:\project\c#\Proj1\Proj1\bin\Debug\Proj1.pdb
+D:\project\c#\Proj1\Proj1\obj\Debug\Proj1.csprojResolveAssemblyReference.cache
+D:\project\c#\Proj1\Proj1\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+D:\project\c#\Proj1\Proj1\obj\Debug\Proj1.dll
+D:\project\c#\Proj1\Proj1\obj\Debug\Proj1.pdb

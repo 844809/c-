@@ -1,0 +1,6 @@
+D:\project\c#\ClassLibCal\ClassLibCal\bin\Debug\ClassLibCal.dll
+D:\project\c#\ClassLibCal\ClassLibCal\bin\Debug\ClassLibCal.pdb
+D:\project\c#\ClassLibCal\ClassLibCal\obj\Debug\ClassLibCalculation.csprojResolveAssemblyReference.cache
+D:\project\c#\ClassLibCal\ClassLibCal\obj\Debug\ClassLibCalculation.csproj.CoreCompileInputs.cache
+D:\project\c#\ClassLibCal\ClassLibCal\obj\Debug\ClassLibCal.dll
+D:\project\c#\ClassLibCal\ClassLibCal\obj\Debug\ClassLibCal.pdb

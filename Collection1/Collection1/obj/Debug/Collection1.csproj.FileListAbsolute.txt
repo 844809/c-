@@ -1,0 +1,7 @@
+D:\project\c#\Collection1\Collection1\bin\Debug\Collection1.exe.config
+D:\project\c#\Collection1\Collection1\bin\Debug\Collection1.exe
+D:\project\c#\Collection1\Collection1\bin\Debug\Collection1.pdb
+D:\project\c#\Collection1\Collection1\obj\Debug\Collection1.csprojResolveAssemblyReference.cache
+D:\project\c#\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache
+D:\project\c#\Collection1\Collection1\obj\Debug\Collection1.exe
+D:\project\c#\Collection1\Collection1\obj\Debug\Collection1.pdb

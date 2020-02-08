@@ -1,0 +1,7 @@
+D:\project\c#\Oride\Oride\obj\Debug\Oride.csprojResolveAssemblyReference.cache
+D:\project\c#\Oride\Oride\obj\Debug\Oride.csproj.CoreCompileInputs.cache
+D:\project\c#\Oride\Oride\bin\Debug\Oride.exe.config
+D:\project\c#\Oride\Oride\bin\Debug\Oride.exe
+D:\project\c#\Oride\Oride\bin\Debug\Oride.pdb
+D:\project\c#\Oride\Oride\obj\Debug\Oride.exe
+D:\project\c#\Oride\Oride\obj\Debug\Oride.pdb

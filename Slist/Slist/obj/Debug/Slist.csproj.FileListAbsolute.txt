@@ -1,0 +1,6 @@
+D:\project\c#\Slist\Slist\bin\Debug\Slist.exe.config
+D:\project\c#\Slist\Slist\bin\Debug\Slist.exe
+D:\project\c#\Slist\Slist\bin\Debug\Slist.pdb
+D:\project\c#\Slist\Slist\obj\Debug\Slist.csproj.CoreCompileInputs.cache
+D:\project\c#\Slist\Slist\obj\Debug\Slist.exe
+D:\project\c#\Slist\Slist\obj\Debug\Slist.pdb

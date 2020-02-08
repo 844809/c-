@@ -1,0 +1,7 @@
+D:\project\c#\types\types\bin\Debug\types.exe.config
+D:\project\c#\types\types\bin\Debug\types.exe
+D:\project\c#\types\types\bin\Debug\types.pdb
+D:\project\c#\types\types\obj\Debug\types.csprojResolveAssemblyReference.cache
+D:\project\c#\types\types\obj\Debug\types.csproj.CoreCompileInputs.cache
+D:\project\c#\types\types\obj\Debug\types.exe
+D:\project\c#\types\types\obj\Debug\types.pdb

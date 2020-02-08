@@ -1,0 +1,6 @@
+D:\project\c#\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\project\c#\Product\Product\bin\Debug\Product.exe.config
+D:\project\c#\Product\Product\bin\Debug\Product.exe
+D:\project\c#\Product\Product\bin\Debug\Product.pdb
+D:\project\c#\Product\Product\obj\Debug\Product.exe
+D:\project\c#\Product\Product\obj\Debug\Product.pdb

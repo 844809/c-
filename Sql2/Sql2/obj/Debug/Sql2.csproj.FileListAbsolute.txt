@@ -1,0 +1,7 @@
+D:\project\c#\Sql2\Sql2\bin\Debug\Sql2.exe.config
+D:\project\c#\Sql2\Sql2\bin\Debug\Sql2.exe
+D:\project\c#\Sql2\Sql2\bin\Debug\Sql2.pdb
+D:\project\c#\Sql2\Sql2\obj\Debug\Sql2.csprojResolveAssemblyReference.cache
+D:\project\c#\Sql2\Sql2\obj\Debug\Sql2.csproj.CoreCompileInputs.cache
+D:\project\c#\Sql2\Sql2\obj\Debug\Sql2.exe
+D:\project\c#\Sql2\Sql2\obj\Debug\Sql2.pdb

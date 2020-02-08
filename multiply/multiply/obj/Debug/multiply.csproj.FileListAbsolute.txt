@@ -1,0 +1,7 @@
+D:\project\c#\multiply\multiply\obj\Debug\multiply.csprojResolveAssemblyReference.cache
+D:\project\c#\multiply\multiply\obj\Debug\multiply.csproj.CoreCompileInputs.cache
+D:\project\c#\multiply\multiply\bin\Debug\multiply.exe.config
+D:\project\c#\multiply\multiply\bin\Debug\multiply.exe
+D:\project\c#\multiply\multiply\bin\Debug\multiply.pdb
+D:\project\c#\multiply\multiply\obj\Debug\multiply.exe
+D:\project\c#\multiply\multiply\obj\Debug\multiply.pdb

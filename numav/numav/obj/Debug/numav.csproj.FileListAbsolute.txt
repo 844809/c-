@@ -1,0 +1,7 @@
+D:\project\c#\numav\numav\bin\Debug\numav.exe.config
+D:\project\c#\numav\numav\bin\Debug\numav.exe
+D:\project\c#\numav\numav\bin\Debug\numav.pdb
+D:\project\c#\numav\numav\obj\Debug\numav.csprojResolveAssemblyReference.cache
+D:\project\c#\numav\numav\obj\Debug\numav.csproj.CoreCompileInputs.cache
+D:\project\c#\numav\numav\obj\Debug\numav.exe
+D:\project\c#\numav\numav\obj\Debug\numav.pdb

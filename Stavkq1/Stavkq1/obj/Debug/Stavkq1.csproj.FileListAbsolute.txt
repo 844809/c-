@@ -1,0 +1,7 @@
+D:\project\c#\Stavkq1\Stavkq1\bin\Debug\Stavkq1.exe.config
+D:\project\c#\Stavkq1\Stavkq1\bin\Debug\Stavkq1.exe
+D:\project\c#\Stavkq1\Stavkq1\bin\Debug\Stavkq1.pdb
+D:\project\c#\Stavkq1\Stavkq1\obj\Debug\Stavkq1.csprojResolveAssemblyReference.cache
+D:\project\c#\Stavkq1\Stavkq1\obj\Debug\Stavkq1.csproj.CoreCompileInputs.cache
+D:\project\c#\Stavkq1\Stavkq1\obj\Debug\Stavkq1.exe
+D:\project\c#\Stavkq1\Stavkq1\obj\Debug\Stavkq1.pdb

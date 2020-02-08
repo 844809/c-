@@ -1,0 +1,7 @@
+D:\project\c#\Oriding\Oriding\obj\Debug\Oriding.csprojResolveAssemblyReference.cache
+D:\project\c#\Oriding\Oriding\obj\Debug\Oriding.csproj.CoreCompileInputs.cache
+D:\project\c#\Oriding\Oriding\bin\Debug\Oriding.exe.config
+D:\project\c#\Oriding\Oriding\bin\Debug\Oriding.exe
+D:\project\c#\Oriding\Oriding\bin\Debug\Oriding.pdb
+D:\project\c#\Oriding\Oriding\obj\Debug\Oriding.exe
+D:\project\c#\Oriding\Oriding\obj\Debug\Oriding.pdb

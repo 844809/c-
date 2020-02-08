@@ -1,0 +1,6 @@
+D:\project\c#\structuress\structuress\bin\Debug\structuress.exe.config
+D:\project\c#\structuress\structuress\bin\Debug\structuress.exe
+D:\project\c#\structuress\structuress\bin\Debug\structuress.pdb
+D:\project\c#\structuress\structuress\obj\Debug\structuress.csproj.CoreCompileInputs.cache
+D:\project\c#\structuress\structuress\obj\Debug\structuress.exe
+D:\project\c#\structuress\structuress\obj\Debug\structuress.pdb
