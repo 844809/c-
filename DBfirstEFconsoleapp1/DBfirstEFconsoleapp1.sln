@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBfirstEFconsoleapp1", "DBfirstEFconsoleapp1\DBfirstEFconsoleapp1.csproj", "{170B1BF9-928D-4E26-BC7C-AB10AF8FF20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170B1BF9-928D-4E26-BC7C-AB10AF8FF20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170B1BF9-928D-4E26-BC7C-AB10AF8FF20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170B1BF9-928D-4E26-BC7C-AB10AF8FF20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170B1BF9-928D-4E26-BC7C-AB10AF8FF20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DFEC59-BEFB-4133-A747-3E565DD4B365}
+	EndGlobalSection
+EndGlobal

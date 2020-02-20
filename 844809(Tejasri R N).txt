@@ -1,0 +1,70 @@
+1. Which of these data type values is returned by equals() method of String class? 
+
+      A. charB. intC. boolean  D. All of the mentioned
+
+
+
+
+2.Which one of the following statements is correct?
+
+A.	Array elements can be of integer type only.
+B.	The rank of an Array is the total number of elements it can contain.
+C.	The length of an Array is the number of dimensions in the Array.
+D.	The default value of numeric array elements is zero.
+E.	The Array elements are guaranteed to be sorted.
+
+
+
+
+3. What type of join is needed when you wish to include rows that do not have matching values?
+A. Equi-join
+B. Natural join
+C. Outer join
+D. All of the Mentioned
+
+
+
+
+
+4. Which of the following keyword stops the execution of JavaScript?
+A. break
+B. return
+C. debugger
+D. try….catch
+
+
+
+PROGRAMS:
+
+
+1.write a C# Program to Get Lower Bound and Upper Bound of an Array?
+TESTCASE:
+The Lower Bound of the Array : 0
+The Upper Bound of the Array : 5
+
+
+
+
+2.write a C# C# Program to Perform Padding in the String?
+TESTCASE:
+String Before Padding : 
+CSHARP
+String After Padding : 
+[         CSHARP**********]
+
+
+
+
+
+
+3.create table using Employe_id,Empname,Email,Phonenumber,jobid,salary?Write a query to display all 
+ the information for those employees whose id is any id who earn the second highest salary.
+
+
+
+
+
+
+
+
+4.create a html form using javascript for form validation where name cant be blank and the password must be greater than 6.
